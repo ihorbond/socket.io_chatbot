@@ -1,0 +1,24 @@
+{
+	"name": "socket_io",
+	"version": "1.0.0",
+	"description": "chat tutorial",
+	"main": "index.js",
+	"scripts": {
+		"test": "test"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ihorbond/socket.io_chatbot.git"
+	},
+	"author": "Ihorbond",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/ihorbond/socket.io_chatbot/issues"
+	},
+	"homepage": "https://github.com/ihorbond/socket.io_chatbot#readme",
+	"dependencies": {
+		"express": "^4.16.2",
+		"socket.io": "^2.0.3"
+	},
+	"devDependencies": {}
+}
